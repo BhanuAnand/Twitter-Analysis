@@ -2,7 +2,7 @@
 
 ![Status badge](https://img.shields.io/badge/Status-Archived-important)
 
-**Update**(03 Jan 2018): I don't actively maintain this repository. This work was done for a course project and the dataset cannot be released because I don't own the copyright. However, everything in this repository can be easily modified to work with other datasets.
+**Update**(03 Jan 2020): I don't actively maintain this repository. This work was done for a course project and the dataset cannot be released because I don't own the copyright. However, everything in this repository can be easily modified to work with other datasets.
 
 ## Dataset Information
 
